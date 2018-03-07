@@ -8,3 +8,6 @@ blinks 4 times for letter d, blinks 18 times for letter r, then blinks at a mode
 
 mothers-love.ino
 blinks 13 times for letter m, blinks 15 times for letter o, blinks 13 times for letter m, then blinks slowly for compassion
+
+urgent.ino
+blinks 18 times for letter r, blinks 15 times for letter o, blinks 15 times for letter o, blinks 6 times for letter f, then blinks fast for urgent
