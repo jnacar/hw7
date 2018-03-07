@@ -14,3 +14,6 @@ blinks 18 times for letter r, blinks 15 times for letter o, blinks 15 times for 
 
 wrong-turn.ino
 blinks 23 times for letter w, blinks 18 times for letter r, blinks 15 times for letter o, blinks 14 times for letter n, blinks 7 times for letter g, then blinks fast for urgent
+
+meeting.ino
+blinks 13 times for letter m, blinks 5 times for letter e, blinks 5 times for letter e, blinks 20 times for letter t, then blinks at a moderate speed as a reminder.
